@@ -176,7 +176,7 @@ This project is currently in development. Contributions, issues, and feature req
 
 ## 📧 Contact
 
-**Your Name** - [ibnul.quayum@gmail.com](mailto:ibnul.quayum@gmail.com)
+[Ibnul Quayum Imran](mailto:ibnul.quayum@gmail.com)
 
 Project Link: [https://github.com/iqimranbd/react-portfolio](https://github.com/iqimranbd/react-portfolio)
 
